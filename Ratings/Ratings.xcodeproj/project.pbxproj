@@ -12,10 +12,10 @@
 		5A3C5C051CC4C8B200E633FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A3C5C031CC4C8B200E633FE /* Main.storyboard */; };
 		5A3C5C071CC4C8B200E633FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A3C5C061CC4C8B200E633FE /* Assets.xcassets */; };
 		5A3C5C0A1CC4C8B200E633FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A3C5C081CC4C8B200E633FE /* LaunchScreen.storyboard */; };
-		5A3C5C121CC55BF600E633FE /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 5A3C5C111CC55BF600E633FE /* Images */; };
 		5A3C5C161CC5625900E633FE /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3C5C151CC5625900E633FE /* Player.swift */; };
 		5A3C5C181CC562B300E633FE /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3C5C171CC562B300E633FE /* SampleData.swift */; };
 		5A3C5C1A1CC5645500E633FE /* PlayersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3C5C191CC5645500E633FE /* PlayersViewController.swift */; };
+		5A3C5C1C1CC56E4900E633FE /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 5A3C5C1B1CC56E4900E633FE /* Images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,10 +26,10 @@
 		5A3C5C061CC4C8B200E633FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A3C5C091CC4C8B200E633FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A3C5C0B1CC4C8B200E633FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5A3C5C111CC55BF600E633FE /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Images; path = Ratings/Assets.xcassets/Images; sourceTree = "<group>"; };
 		5A3C5C151CC5625900E633FE /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		5A3C5C171CC562B300E633FE /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 		5A3C5C191CC5645500E633FE /* PlayersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayersViewController.swift; sourceTree = "<group>"; };
+		5A3C5C1B1CC56E4900E633FE /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Images; path = Ratings/Assets.xcassets/Images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +46,7 @@
 		5A3C5BF31CC4C8B200E633FE = {
 			isa = PBXGroup;
 			children = (
-				5A3C5C111CC55BF600E633FE /* Images */,
+				5A3C5C1B1CC56E4900E633FE /* Images */,
 				5A3C5BFE1CC4C8B200E633FE /* Ratings */,
 				5A3C5BFD1CC4C8B200E633FE /* Products */,
 			);
@@ -134,7 +134,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5A3C5C121CC55BF600E633FE /* Images in Resources */,
+				5A3C5C1C1CC56E4900E633FE /* Images in Resources */,
 				5A3C5C0A1CC4C8B200E633FE /* LaunchScreen.storyboard in Resources */,
 				5A3C5C071CC4C8B200E633FE /* Assets.xcassets in Resources */,
 				5A3C5C051CC4C8B200E633FE /* Main.storyboard in Resources */,
