@@ -101,4 +101,20 @@ class PlayersViewController: UITableViewController {
         let imageName = "\(rating)Stars.png"
         return UIImage(named: imageName)
     }
+
+    
+    /*
+     * Segue Functions
+     */
+    @IBAction func cancelToPlayersViewController(segue:UIStoryboardSegue) {
+        
+        
+    }
+    
+    @IBAction func savePlayerDetail(segue:UIStoryboardSegue) {
+        
+        
+    }
+    
+    
 }

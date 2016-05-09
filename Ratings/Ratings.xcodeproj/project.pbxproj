@@ -16,6 +16,7 @@
 		5A3C5C181CC562B300E633FE /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3C5C171CC562B300E633FE /* SampleData.swift */; };
 		5A3C5C1A1CC5645500E633FE /* PlayersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A3C5C191CC5645500E633FE /* PlayersViewController.swift */; };
 		5A3C5C1C1CC56E4900E633FE /* Images in Resources */ = {isa = PBXBuildFile; fileRef = 5A3C5C1B1CC56E4900E633FE /* Images */; };
+		5AA1E1941CE01B7A0043D5BD /* PlayerDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA1E1931CE01B7A0043D5BD /* PlayerDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		5A3C5C171CC562B300E633FE /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 		5A3C5C191CC5645500E633FE /* PlayersViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayersViewController.swift; sourceTree = "<group>"; };
 		5A3C5C1B1CC56E4900E633FE /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Images; path = Ratings/Assets.xcassets/Images; sourceTree = "<group>"; };
+		5AA1E1931CE01B7A0043D5BD /* PlayerDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5A3C5BFF1CC4C8B200E633FE /* AppDelegate.swift */,
 				5A3C5C011CC4C8B200E633FE /* ViewController.swift */,
 				5A3C5C031CC4C8B200E633FE /* Main.storyboard */,
+				5AA1E1931CE01B7A0043D5BD /* PlayerDetailsViewController.swift */,
 				5A3C5C191CC5645500E633FE /* PlayersViewController.swift */,
 				5A3C5C151CC5625900E633FE /* Player.swift */,
 				5A3C5C171CC562B300E633FE /* SampleData.swift */,
@@ -150,6 +153,7 @@
 			files = (
 				5A3C5C161CC5625900E633FE /* Player.swift in Sources */,
 				5A3C5C021CC4C8B200E633FE /* ViewController.swift in Sources */,
+				5AA1E1941CE01B7A0043D5BD /* PlayerDetailsViewController.swift in Sources */,
 				5A3C5C181CC562B300E633FE /* SampleData.swift in Sources */,
 				5A3C5C001CC4C8B200E633FE /* AppDelegate.swift in Sources */,
 				5A3C5C1A1CC5645500E633FE /* PlayersViewController.swift in Sources */,
@@ -302,6 +306,7 @@
 				5A3C5C101CC4C8B200E633FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
